@@ -1,0 +1,51 @@
+*{
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
+.clr{
+  clear: both;
+}
+.navbar{
+  background-color: black;
+}
+.logo{
+
+  float: left;
+}
+.logo img{
+  width: 50%;
+ 
+
+}
+.navbar .list{
+float: right;
+
+}
+.list ul{
+ list-style-type: none;
+}
+.list ul a {
+color: aliceblue;
+text-decoration-line: none; 
+margin-right: 16px; 
+}
+.list ul li {
+  float: right;
+}
+.contenar {
+  width: 80%;
+
+  margin: auto;
+}
+.dolar {
+  background-color: palegoldenrod;
+
+}
+.dolar h2 ,p  {
+  text-align: center;
+}
+.dolar img {
+  float: left;
+  width: 33.3%;
+}
